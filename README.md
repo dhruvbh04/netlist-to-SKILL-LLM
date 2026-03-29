@@ -44,5 +44,3 @@ load("output/gen.il")
 
 - google-generativeai
 
-- python-dotenv
-
