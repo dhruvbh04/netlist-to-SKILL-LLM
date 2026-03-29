@@ -33,9 +33,9 @@ python main.py input/sample.sp
 Then in Cadence:
 
 
-
+```bash
 load("output/gen.il")
-
+```
 
 
 ## Requirements
