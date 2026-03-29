@@ -1,4 +1,4 @@
-\# Netlist to SKILL Converter (Cadence Virtuoso)
+# Netlist to SKILL Converter (Cadence Virtuoso)
 
 
 
@@ -6,17 +6,17 @@ This project converts SPICE netlists into Cadence SKILL scripts to automatically
 
 
 
-\## Features
+## Features
 
-\- Supports MOS, R, C
+- Supports MOS, R, C
 
-\- Uses LLM (Gemini) for parsing
+- Uses LLM (Gemini) for parsing
 
-\- Generates Cadence-compatible SKILL code
+- Generates Cadence-compatible SKILL code
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -38,11 +38,11 @@ load("output/gen.il")
 
 
 
-\## Requirements
+## Requirements
 
-\-Python 3.x
+- Python 3.x
 
-\-google-generativeai
+- google-generativeai
 
-\-python-dotenv
+- python-dotenv
 
